@@ -1,0 +1,8 @@
+A quantidade de flores de cada tipo:
+E qual o maior sepal length  de cada classe de flor.
+Quantidade de Iris-setosa: 50
+Quantidade de Iris-versicolor: 50
+Quantidade de Iris-virginica: 50
+O maior sepal length da Flor Iris-setosa tem: 5.0cm
+O maior sepal length da Flor Iris-versicolor tem: 7.0cm
+O maior sepal length da Flor Iris-virginica tem: 7.9cm
